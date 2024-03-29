@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my first own blockchain<br>👯 I’m looking to collaborate on any blockchain project(just dm me! :))<br>🌱 I’m currently learning optimizing the Critical Rendering Path in Next.js<br>💬 Ask me about the crypto world or how to make your customers leave positive reviews for your company<br>⚡ Important fact - "You reap what you sow."
+Blockchain Developer (Rust | Node.js | TypeScript)
 
 
 ## 🌐 Socials:
